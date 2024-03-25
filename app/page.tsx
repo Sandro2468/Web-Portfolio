@@ -14,7 +14,6 @@ export default function Home() {
           <h1 className="text-[50px] text-white font-semibold">
             I'm Sandro,
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
-              {" "}
               a Full-Stack Developer
             </span>
           </h1>

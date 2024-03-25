@@ -16,10 +16,9 @@ const Navbar = () => {
           /> */}
         </div>
         <h1 className="text-white text-[25px] font-semibold">
-          Web{" "}
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
-            {" "}
-            Portfolio{" "}
+          Web
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">     
+            Portfolio
           </span>
         </h1>
       </div>
