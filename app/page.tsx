@@ -12,7 +12,7 @@ export default function Home() {
       >
         <div className="pl-20 md:pl-40 pb-56 md:pb-20 flex flex-col gap-5 z-[10] max-w-[750px]">
           <h1 className="text-[50px] text-white font-semibold">
-            I'm Sandro,
+            I&apos;m Sandro,
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
               a Full-Stack Developer
             </span>
@@ -21,8 +21,8 @@ export default function Home() {
             with expertise in both front-end and back-end technologies. I
             specialize in creating responsive and interactive web applications
             using modern frameworks and libraries. My skills include HTML, CSS,
-            JavaScript, React.js, Node.js, Express.js, MongoDB, and more. I'm
-            passionate about solving complex problems and delivering
+            JavaScript, React.js, Node.js, Express.js, MongoDB, and more.
+            I&apos;m passionate about solving complex problems and delivering
             high-quality software solutions.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">

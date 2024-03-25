@@ -17,12 +17,12 @@ const Page = () => {
           <h1 className="font-semibold text-white text-[50px]">
             Skills
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
-              &
+              &amp;
             </span>
             Technologies
           </h1>
           <p className="text-gray-400 text-[20px]">
-            Harnessing cutting-edge technology shaping today's industry
+            Harnessing cutting-edge technology shaping today&apos;s industry
             landscape
           </p>
         </div>
